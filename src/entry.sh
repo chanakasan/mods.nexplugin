@@ -1,5 +1,3 @@
-set -e
-
 source $(nex _config)
 
 for f in $nex_mod_base/*; do
